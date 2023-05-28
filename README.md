@@ -1,2 +1,2 @@
 # 3rd year College Project Payroll-System
-MySQL used as database.
+OleDb (Object Linking and Embedding Database) used as database.
